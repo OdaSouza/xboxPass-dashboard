@@ -5,7 +5,7 @@ Simulador para analisar dados de vendas separadas em:
 * Anuais
 * Quartetos Graficos
 
-## Tecnoligas usadas:
+## Tecnoligas Usadas:
 
 * Office 360 > Excell
 * Tabela formato original > xlsx
