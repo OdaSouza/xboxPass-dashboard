@@ -1,6 +1,6 @@
 ## Dashboard Simulador de vendas da Season Pass Xbox
 
-Simulador para simular vendas:
+Simulador para analisar dados de vendas:
 * Mensais
 * Anuais
 * Quartetos Graficos
