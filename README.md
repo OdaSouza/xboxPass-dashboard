@@ -5,7 +5,7 @@ Simulador para simular vendas:
 * Anuais
 * Quartetos Graficos
 
-  ##Tecnoligas usadas:
+## Tecnoligas usadas:
 
-  * Office 360 > Excell
-  * Tabela formato original > xlsx
+* Office 360 > Excell
+* Tabela formato original > xlsx
